@@ -1,50 +1,50 @@
-# Week 1 Learning Log
+# Week 1 (1st Week of April) Learning Log
 
 ## Daily Progress
 
-### Day 1
+### Day 1 (Sunday, 30th March 2025)
+- **Competitive Programming Questions Solved:**
+    - [ ] Question 1: Description
+    - [ ] Question 2: Description
+- **Ansible Course Progress:**
+    - [x] Topic/Module Covered: Inventory, Variables, Facts
+
+### Day 2 (Monday, 31st March 2025)
 - **Competitive Programming Questions Solved:**
     - [ ] Question 1: Description
     - [ ] Question 2: Description
 - **Ansible Course Progress:**
     - [ ] Topic/Module Covered: 
 
-### Day 2
+### Day 3 (Tuesday, 1st April 2025)
 - **Competitive Programming Questions Solved:**
     - [ ] Question 1: Description
     - [ ] Question 2: Description
 - **Ansible Course Progress:**
     - [ ] Topic/Module Covered: 
 
-### Day 3
+### Day 4 (Wednesday, 2nd April 2025)
 - **Competitive Programming Questions Solved:**
     - [ ] Question 1: Description
     - [ ] Question 2: Description
 - **Ansible Course Progress:**
     - [ ] Topic/Module Covered: 
 
-### Day 4
+### Day 5 (Thursday, 3rd April 2025)
 - **Competitive Programming Questions Solved:**
     - [ ] Question 1: Description
     - [ ] Question 2: Description
 - **Ansible Course Progress:**
     - [ ] Topic/Module Covered: 
 
-### Day 5
+### Day 6 (Friday, 4th April 2025)
 - **Competitive Programming Questions Solved:**
     - [ ] Question 1: Description
     - [ ] Question 2: Description
 - **Ansible Course Progress:**
     - [ ] Topic/Module Covered: 
 
-### Day 6
-- **Competitive Programming Questions Solved:**
-    - [ ] Question 1: Description
-    - [ ] Question 2: Description
-- **Ansible Course Progress:**
-    - [ ] Topic/Module Covered: 
-
-### Day 7
+### Day 7 (Saturday, 5th April 2025)
 - **Competitive Programming Questions Solved:**
     - [ ] Question 1: Description
     - [ ] Question 2: Description
