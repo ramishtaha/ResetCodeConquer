@@ -4,17 +4,19 @@
 
 ### Day 1 (Sunday, 30th March 2025)
 - **Competitive Programming Questions Solved:**
-    - [ ] Question 1: [Two Sum](https://leetcode.com/problems/two-sum/)
-    - [ ] Question 2: [Palindrome Number](https://leetcode.com/problems/palindrome-number/)
+    - [x] Question 1: [Two Sum](https://leetcode.com/problems/two-sum/)
+    - [x] Question 2: [Palindrome Number](https://leetcode.com/problems/palindrome-number/)
 - **Ansible Course Progress:**
     - [x] Topic Covered: Inventory, Variables, Facts
 
 ### Day 2 (Monday, 31st March 2025)
 - **Competitive Programming Questions Solved:**
-    - [ ] Question 1: [Two Sum](https://leetcode.com/problems/two-sum/)
-    - [ ] Question 2: [Palindrome Number](https://leetcode.com/problems/palindrome-number/)
+    - [ ] Question 1: [Roman to Integer](https://leetcode.com/problems/roman-to-integer/)
+    - [ ] Question 2: [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)
 - **Ansible Course Progress:**
     - [ ] Topic/Module Covered: 
+- **Github Foundations Progress:**
+    - [ ] Topic/Module Covered:
 
 ### Day 3 (Tuesday, 1st April 2025)
 - **Competitive Programming Questions Solved:**
