@@ -11,8 +11,8 @@
 
 ### Day 2 (Monday, 31st March 2025)
 - **Competitive Programming Questions Solved:**
-    - [ ] Question 1: Description
-    - [ ] Question 2: Description
+    - [ ] Question 1: [Two Sum](https://leetcode.com/problems/two-sum/)
+    - [ ] Question 2: [Palindrome Number](https://leetcode.com/problems/palindrome-number/)
 - **Ansible Course Progress:**
     - [ ] Topic/Module Covered: 
 
