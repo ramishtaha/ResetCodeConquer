@@ -1,8 +1,8 @@
-# Challenge Faced in Solving Pallindrome Problem
+# Challenge Faced in Solving Competitive Programming Problem
 
 ## Problem Statement
-- **Problem Name:** [Palindrome Number]
-- **Platform:** [e.g., Codeforces, LeetCode]
+- **Problem Name:** [Insert Problem Name]
+- **Platform:** [e.g., Codeforces, LeetCode, HackerRank]
 - **Difficulty Level:** [Easy/Medium/Hard]
 
 ## Approach

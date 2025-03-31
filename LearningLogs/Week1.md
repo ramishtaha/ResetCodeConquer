@@ -11,12 +11,12 @@
 
 ### Day 2 (Monday, 31st March 2025)
 - **Competitive Programming Questions Solved:**
-    - [ ] Question 1: [Roman to Integer](https://leetcode.com/problems/roman-to-integer/)
+    - [X] Question 1: [Roman to Integer](https://leetcode.com/problems/roman-to-integer/)
     - [ ] Question 2: [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)
 - **Ansible Course Progress:**
     - [ ] Topic/Module Covered: 
 - **Github Foundations Progress:**
-    - [ ] Topic Covered: Branches, Working with branches, Conflicts, Resolving conflicts, Fetch & Merge, Pull, Push to remote
+    - [X] Topic Covered: Branches, Working with branches, Conflicts, Resolving conflicts, Fetch & Merge, Pull, Push to remote
 
 ### Day 3 (Tuesday, 1st April 2025)
 - **Competitive Programming Questions Solved:**
