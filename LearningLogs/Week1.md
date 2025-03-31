@@ -16,7 +16,7 @@
 - **Ansible Course Progress:**
     - [ ] Topic/Module Covered: 
 - **Github Foundations Progress:**
-    - [ ] Topic/Module Covered:
+    - [ ] Topic Covered: Branches, Working with branches, Conflicts, Resolving conflicts, Fetch & Merge, Pull, Push to remote
 
 ### Day 3 (Tuesday, 1st April 2025)
 - **Competitive Programming Questions Solved:**
